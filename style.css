@@ -1,0 +1,21 @@
+h1 {
+  color: orange;
+}
+h2 {
+  color: purple;
+}
+ul {
+  list-style: square;
+}
+ol {
+  list-style: upper-roman;
+  text-decoration: underline;
+  color: magenta;
+}
+.black {
+  color: black;
+  text-decoration: underline;
+}
+main {
+  font-family: 'Oswald', sans-serif;
+}
