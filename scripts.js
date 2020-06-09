@@ -13,10 +13,11 @@ $('ul').append([names])
 
 let additionalBlock = {
   title: "Added with javascript",
-  text: "This block was added using JavaScript's jQuery library. How awesome!"
+  text: "This block was added using JavaScript's jQuery library. How awesome!",
 };
 
-$('body').append(title)
+$('body').append(additionalBlock.title)
+$('body').append(additionalBlock.text)
 
 /*$('body').append('<h1>Added with javascript</h1>')
 
