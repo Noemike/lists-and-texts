@@ -3,7 +3,7 @@ console.log('Hi,Noemi')
 let names=['Levi', '<strong>Noni</strong>', 'Norbi', 'Anya', 'Apa', 'Baba',];
 
 names.forEach(name => {
-  $('ul').append(`<li> ${name} </li>`)
+  $('#namelist').append(`<li> ${name} </li>`)
 });
 
 let additionalBlock = {
