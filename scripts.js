@@ -3,10 +3,6 @@ console.log('Hi,Noemi')
 let names=['Levi', '<strong>Noni</strong>', 'Norbi', 'Anya', 'Apa', 'Baba'];
 
 
-names.forEach(element => {
-  
-});
-
 
 let additionalBlock = {
   title: "<h1>Added with javascript<h1>",
